@@ -1,5 +1,7 @@
 \version "2.18.0"
 
+\pointAndClickOff
+
 \header {
   title = "Fantaisie-Impromptu"
   composer = "Frédéric Chopin"

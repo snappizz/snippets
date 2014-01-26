@@ -2,6 +2,8 @@
 
 \include "definitions.ily"
 
+\pointAndClickOff
+
 music = \relative c' {
   \clef alto
   \time 3/4
